@@ -1,1 +1,1 @@
-print("Hello from IP job execution team by Tomas!")
+print("Hello from IP job execution team!")
