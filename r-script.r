@@ -1,2 +1,2 @@
-myString <- "Hello, World!"
+myString <- "Hello from R!"
 print (myString)
